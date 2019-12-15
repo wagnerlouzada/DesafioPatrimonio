@@ -1,6 +1,6 @@
 Patrimonio/Home
 
-Neste teste utilizou-se o EF6, porém a utilização deste framework não é a opção que o autor prefere utilizar, pois diminui o controle sobre o código, o tutor prefere utilizar uma abordagem que não utilize ORMs, e a geração das diversas classes, controladores etc, seja feita manualmente.
+Neste teste utilizou-se o EF6, porém a utilização deste framework não é a opção que o autor prefere utilizar, pois diminui o controle sobre o código, o autor prefere utilizar uma abordagem que não utilize ORMs, e a geração das diversas classes, controladores etc, seja feita manualmente.
 
 Contudo como o mercado tem demonstrado preferÊncia pela utilização de patterns e ORMs, especialmente EF, Dapper, e similares, julgou-se mais adequado realizar o DESAFIO utilizando-se o EF.
 
