@@ -9,9 +9,9 @@ Esta aplicação tem por objetivo medir o conhecimento e a habilidade do autor n
 
 Os quesitos a serem obeservados parecem ser:
 
-Conhecimento
-Habilidade
-Organização
+Conhecimento,
+Habilidade,
+Organização,
 etc
 
 Script para criação das tabelas:
